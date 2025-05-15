@@ -50,5 +50,5 @@ g++ -o mylinkstate mylinkstate.cpp
 
 Test and output samples:
 - `test10nodes`, `test100nodes`: sample inputs
-- `sample-out-4-10nodes`: example of expected output
+
 
